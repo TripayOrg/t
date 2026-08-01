@@ -2,6 +2,8 @@
 
 Welcome to the official repository of **Byko**! This is your starting point to explore and contribute.
 
+<img width="320" height="132" alt="Google workspace" src="https://github.com/user-attachments/assets/3f7186b0-61a2-4ff9-87e5-45cd2e3e349e" />
+
 ## Our Stack
 
 **App**:
